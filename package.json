@@ -1,0 +1,19 @@
+{
+  "name": "budget-app",
+  "description": "simple budgeting appliation that solves all the issues found with others",
+  "version": "0.0.1-SNAPSHOT",
+  "private": true,
+  "author": "Jesse Caldwell <jesse.dode@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JesseDode/budget-app.git"
+  },
+  "dependencies": {
+    "angular": "^1.5.5",
+    "body-parser": "latest",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "httpdispatcher": "^1.0.0",
+    "mongodb": "^2.2.9"
+  }
+}
