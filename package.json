@@ -4,10 +4,6 @@
   "version": "0.0.1-SNAPSHOT",
   "private": true,
   "author": "Jesse Caldwell <jesse.dode@gmail.com>",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/JesseDode/budget-app.git"
-  },
   "dependencies": {
     "angular": "^1.5.5",
     "body-parser": "latest",
